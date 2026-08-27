@@ -1,10 +1,10 @@
 # EDA-datos-CARS
-Analítica exploratoria de datos (EDA) y modelado de series de tiempo (ARIMA) sobre un dataset técnico de especificaciones vehiculares en Python
+Analítica exploratoria de datos (EDA)  sobre un dataset técnico de especificaciones vehiculares en Python
 
 
-# Car Dataset Analysis & Time Series Modeling
+# Car Dataset Analysis 
 
-Este proyecto realiza un análisis exploratorio de datos (EDA) y el modelado de series de tiempo utilizando un conjunto de datos técnicos de especificaciones automotrices.
+Este proyecto realiza un análisis exploratorio de datos (EDA) utilizando un conjunto de datos técnicos de especificaciones automotrices.
 
 ##  Resumen del Trabajo Realizado
 
