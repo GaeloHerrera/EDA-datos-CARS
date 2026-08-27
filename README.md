@@ -11,7 +11,6 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) y el modelado de 
 * **Limpieza y Preparación de Datos:** Inspección, tratamiento de valores faltantes y estructuración del dataset para análisis.
 * **Análisis Exploratorio de Datos (EDA):** Identificación de relaciones estadísticas entre variables clave (potencia, cilindraje, dimensiones, consumo de combustible) y la estructura de precios de los vehículos (`MSRP` e `Invoice`).
 * **Visualización de Datos:** Generación de gráficos distributivos, matrices de correlación y mapas de dispersión para interpretar patrones por marca y origen vehicular.
-* **Modelado de Series de Tiempo (ARIMA):** Análisis de estacionariedad (prueba Dickey-Fuller Augmentada), evaluación de autocomunicación (gráficos ACF y PACF) y ajuste de modelos ARIMA para la serie observada.
 
 ##  Tecnologías y Librerías
 
