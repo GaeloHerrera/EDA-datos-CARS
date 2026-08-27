@@ -8,9 +8,8 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) utilizando un con
 
 ##  Resumen del Trabajo Realizado
 
-* **Limpieza y Preparación de Datos:** Inspección, tratamiento de valores faltantes y estructuración del dataset para análisis.
 * **Análisis Exploratorio de Datos (EDA):** Identificación de relaciones estadísticas entre variables clave (potencia, cilindraje, dimensiones, consumo de combustible) y la estructura de precios de los vehículos (`MSRP` e `Invoice`).
-* **Visualización de Datos:** Generación de gráficos distributivos, matrices de correlación y mapas de dispersión para interpretar patrones por marca y origen vehicular.
+
 
 ##  Tecnologías y Librerías
 
